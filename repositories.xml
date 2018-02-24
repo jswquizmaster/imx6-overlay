@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+<repo priority="50" status="unofficial">
+	<name><![CDATA[imx6-overlay]]></name>
+	<description>Overlay for NXP imx6 profile and Packages</description>
+	<homepage>https://github.com/jswquizmaster/imx6-overlay</homepage>
+	<owner>
+		<name>Johannes</name>
+	</owner>
+	<source type="git">git://github.com/jswquizmaster/imx6-overlay.git</source>
+	<feed>https://github.com/jswquizmaster/imx6-overlay/commits/master.atom</feed>
+</repo>
+</repositories>
